@@ -1,2 +1,2 @@
 # helloworld
-Hello, world! first repository
+Hello, stuuuuudent!
